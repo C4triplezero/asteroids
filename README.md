@@ -1,1 +1,1 @@
-# asteroids
+This is my second project about making an astroids game!
